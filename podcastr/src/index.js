@@ -6,11 +6,11 @@ import Button from './Button';
 
 ReactDOM.render(
     <>
-      <Button title="button 1"/>
-      <Button title="button 2"/>
-      <Button title="button 3"/>
-      <Button title="button 4"/>
-      <Button title="button 5"/>
+      <Button>button 1</Button>
+      <Button>button 2</Button>
+      <Button>button 3</Button>
+      <Button>button 4</Button>
+      <Button>button 5</Button>
     </>
     ,
   document.getElementById('root')
